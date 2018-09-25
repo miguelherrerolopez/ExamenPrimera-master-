@@ -1,0 +1,26 @@
+.columna{
+	display: flex;
+	flex-direction: row;	
+}
+.fila{
+	display: flex;
+	flex-direction: column;
+}
+header{
+	background-color: red;
+}
+nav{
+	background-color: blue;
+}
+#content{
+	background-color: coral;
+}
+aside{
+	background-color: cornflowerblue;
+}
+section{
+	background-color: brown;
+}
+footer{
+	background-color: black;
+}
